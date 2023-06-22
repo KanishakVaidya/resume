@@ -1,0 +1,105 @@
+:root {
+    --maincolor: #0047AB;
+    --accecolor: #ccddff;
+}
+
+/* * { */
+/*     /\* to print with background colors *\/ */
+/*     -webkit-print-color-adjust: exact !important;   /\* Chrome, Safari 6 – 15.3, Edge *\/ */
+/*     color-adjust: exact !important;                 /\* Firefox 48 – 96 *\/ */
+/*     print-color-adjust: exact !important;           /\* Firefox 97+, Safari 15.4+ *\/ */
+/* } */
+
+@page {
+    size: A4;
+    margin: 0;
+}
+
+html {
+    background-color: #2a2a2e;
+}
+
+body {
+    background-color: white;
+}
+
+html, body {
+    width: 210mm;
+    height: 297mm;
+    font-family: sans;
+    font-size: 0.9em;
+    line-height: 1.1em;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+.content {
+    display: flex;
+    flex-wrap: wrap;
+    /* justify-content: space-between; */
+    border: 1px solid black;
+}
+
+.personal {
+    width: 100%;
+    text-align: center;
+    font-size: 1.3em;
+    padding-bottom: 10ox;
+}
+
+.personal table {
+    width: 100%;
+    font-size: 0.75em;
+}
+
+.personal h2 {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 3em;
+    font-family: Halvetica, serif;
+}
+
+.sidecol {
+    flex-grow: 1;
+    margin-top: 13px;
+    background-color: var(--accecolor);
+    padding: 15px;
+    line-height: 1.5em;
+    flex-basis: 30%;
+}
+
+.sidecol ul {
+    list-style-type: square;
+    padding-left: 10px;
+}
+
+.sidecol h2, .sidecol h3 {
+    font-size: 1.2em;
+    line-height: 1.5em;
+    color: var(--maincolor);
+    border-bottom: 2px solid black;
+}
+
+.maincol {
+    flex-basis: 63%;
+    padding: 0 10px;
+    line-height: 1.5em;
+}
+
+.maincol ul {
+    list-style-type: square;
+    padding-left: 10px;
+}
+.maincol h2, .maincol h3 {
+    font-size: 1.25em;
+    text-transform: uppercase;
+    color: var(--maincolor);
+    background-color: var(--accecolor);
+    padding: 5px 0 5px 10px;
+}
+
+a {
+    font-family: monospace;
+    font-size: 1.3em;
+    color: blue;
+}
