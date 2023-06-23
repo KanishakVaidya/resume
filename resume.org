@@ -34,11 +34,6 @@
 :HTML_CONTAINER_CLASS: maincol
 :END:
 As a Ph.D. fellow in the Electrical Communication Engineering department at IISc Bangalore, I specialize in private information retrieval, cache-aided networks, and distributed systems. My research is focused on addressing privacy concerns in distributed systems and developing new techniques for straggler mitigation. I have a strong background in coding, signal processing, and information theory and I have also worked on image processing and computer vision projects.
-** Education
-|  *PhD, M.Tech*  |      IISc Bangalore      | Aug 2018 - Present  | CGPA: 8.9/10 |
-|    *B.Tech*     |    JNGEC Sundernagar     | Aug 2013 - Jul 2017 |    69.4%     |
-|     *10+2*      | Kendriya Vidyalaya Mandi |       2012-13       |    85.4%     |
-| *Matriculation* | Kendriya Vidyalaya Mandi |       2010-11       | CGPA: 9.2/10 |
 ** Recent Publications
  - Kanishak Vaidya and B. Sundar Rajan, *``Cache-Aided Multi-User Private Information Retrieval Using PDAs,''* 2023 IEEE Information Theory Workshop (ITW), Saint-Malo, France, 23-28 April 2023.
  - Kanishak Vaidya and B. Sundar Rajan, *``Private Information Delivery with Coded Storage,''* 2022 - 2022 IEEE International Symposium on Information Theory (ISIT 2022), Espoo, Finland, 24 June – 2 July 2022.
@@ -49,3 +44,8 @@ As a Ph.D. fellow in the Electrical Communication Engineering department at IISc
  - Image mosaic using homography estimation
  - *Hobby projects:* Linux distribution and package repositories
  - *Other projects:* [[https://kanishakvaidya.github.io/phd-progress/projects/index.html][kanishakvaidya.github.io/phd-progress/projects]]
+** Education
+|  *PhD, M.Tech*  |      IISc Bangalore      | Aug 2018 - Present  | CGPA: 8.9/10 |
+|    *B.Tech*     |    JNGEC Sundernagar     | Aug 2013 - Jul 2017 |    69.4%     |
+|     *10+2*      | Kendriya Vidyalaya Mandi |       2012-13       |    85.4%     |
+| *Matriculation* | Kendriya Vidyalaya Mandi |       2010-11       | CGPA: 9.2/10 |
