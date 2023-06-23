@@ -29,6 +29,10 @@
  - *RWIT:* Workshop on wireless technologies, IoT and 5G
  - *INMOTC:* KV Dhaula Kuan, Delhi. Focus on Complex analysis, Number theory and geometry
 
+#+begin_export html
+<button onclick="window.print()" class="printme">Print Resume</button>
+#+end_export
+
 * About me
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: maincol

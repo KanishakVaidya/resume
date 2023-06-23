@@ -113,7 +113,16 @@ a {
     color: blue;
 }
 
-/* @media print { */
+.printme {
+    position: relative;
+    bottom: 0;
+    left: 0;
+}
+
+@media print {
+    .printme {
+        display: none;
+    }
 /*     .sidecol { */
 /*         background-color: white; */
 /*         border-right: 2px solid black; */
@@ -122,4 +131,4 @@ a {
 /*         background-color: white; */
 /*         border-bottom: 2px solid black; */
 /*     } */
-/* } */
+}
