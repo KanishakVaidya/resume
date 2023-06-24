@@ -30,7 +30,7 @@
  - *INMOTC:* KV Dhaula Kuan, Delhi. Focus on Complex analysis, Number theory and geometry
 
 #+begin_export html
-<button onclick="window.print()" class="printme">Print Resume</button>
+<button class="printme"><a href="https://kanishakvaidya.github.io/resume/resume.pdf">Download CV</a></button>
 #+end_export
 
 * About me
