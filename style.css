@@ -42,6 +42,8 @@ html, body {
 }
 
 .content {
+    min-width: 210mm;
+    min-height: 297mm;
     display: flex;
     flex-wrap: wrap;
     /* justify-content: space-between; */
