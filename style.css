@@ -28,11 +28,10 @@ html {
 
 body {
     background-color: white;
-}
-
-html, body {
     width: 210mm;
     height: 297mm;
+    min-width: 210mm;
+    min-height: 297mm;
     font-family: 'MyWebFont', sans-serif;
     font-size: 100%;
     line-height: 1em;
@@ -43,7 +42,6 @@ html, body {
 
 .content {
     min-width: 210mm;
-    min-height: 297mm;
     display: flex;
     flex-wrap: wrap;
     /* justify-content: space-between; */
