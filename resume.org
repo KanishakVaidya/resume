@@ -43,11 +43,21 @@ As a Ph.D. fellow in the Electrical Communication Engineering department at IISc
  - Kanishak Vaidya and B. Sundar Rajan, *``Private Information Delivery with Coded Storage,''* 2022 - 2022 IEEE International Symposium on Information Theory (ISIT 2022), Espoo, Finland, 24 June – 2 July 2022.
  - Kanishak Vaidya and B. Sundar Rajan, *``Cache-Aided Multi-Access Multi-User Private Information Retrieval,''* 2022 20th International Symposium on Modeling and Optimization in Mobile, Ad hoc, and Wireless Networks (WiOpt), Torino, Italy, 2022, pp. 246-253, doi: 10.23919/WiOpt56218.2022.9930597.
  - *Other publications*: [[https://kanishakvaidya.github.io/phd-progress/publications][kanishakvaidya.github.io/phd-progress/publications]]
+   + Kanishak Vaidya and B. Sundar Rajan, *``Distributed Computation: Privacy, Straggler Mitigation, and Security Against Colluding Workers,''* 2020 - 2020 IEEE Global Communications Conference, 2020, pp. 1-6, doi: 10.1109/GLOBECOM42002.2020.9322092.
+   + Kanishak Vaidya and B. Sundar Rajan, *``Cache-Aided Multi-User Private Information Retrieval using PDAs.''* arXiv:2212.12979, 26 December 2022.
+   + Kanishak Vaidya and B. Sundar Rajan, *``Multi-Access Cache-Aided Multi-User Private Information Retrieval,''* arXiv:2201.11481, 9 Feb 2022.
+   + Kanishak Vaidya and B. Sundar Rajan, *``Private Information Delivery with Coded Storage,''* arXiv:2202.03803, 8 Feb 2022.
 ** Projects
  - Image segmentation using watershed transform
  - Image mosaic using homography estimation
- - *Hobby projects:* Linux distribution and package repositories
+ - *Hobby projects:* Maintain a Linux distribution and package repository
  - *Other projects:* [[https://kanishakvaidya.github.io/phd-progress/projects/index.html][kanishakvaidya.github.io/phd-progress/projects]]
+   + *Computer vision*: Camera rotation and translation from images
+   + *Arduino based* Two-wheel self balancing robot
+   + *Arduino based* Plant self care system
+   + *ATmega2560* based Pizza delivery system
+   + Gesture controlled wheelchair
+   + Home security alarm from *LDR and BJT Transistors*
 ** Education
 |  *PhD, M.Tech*  |      IISc Bangalore      | Aug 2018 - Present  | CGPA: 8.9/10 |
 |    *B.Tech*     |    JNGEC Sundernagar     | Aug 2013 - Jul 2017 |    69.4%     |

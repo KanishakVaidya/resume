@@ -90,6 +90,8 @@ body {
 }
 
 .maincol {
+    flex-grow: 1;
+    background-color: white;
     flex-basis: 63%;
     padding: 0 10px;
     line-height: 1.35em;
@@ -105,6 +107,15 @@ body {
     color: var(--maincolor);
     background-color: var(--accecolor);
     padding: 5px 0 5px 10px;
+}
+
+.maincol ul>li>ul {
+    display: none;
+}
+
+.maincol ul>li:hover>ul {
+    display: initial;
+    background-color: var(--accecolor);
 }
 
 a {
