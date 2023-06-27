@@ -1,6 +1,10 @@
 :root {
     --maincolor: #0047AB;
     --accecolor: #ccddff;
+    --maincolor: #7f2c3d;
+    --accecolor: #e5d4d8;
+    --maincolor: #2c7f6e;
+    --accecolor: #bfd8d3;
 }
 
 * {
@@ -64,7 +68,7 @@ body {
 .personal h2 {
     text-transform: uppercase;
     text-align: center;
-    font-size: 3em;
+    font-size: 2.5em;
     /* margin: 10px 0 -10px 0; */
 }
 
@@ -101,8 +105,9 @@ body {
     font-size: 1.25em;
     text-transform: uppercase;
     color: var(--maincolor);
-    background-color: var(--accecolor);
     padding: 5px 0 5px 10px;
+    /* background-color: var(--accecolor); */
+    border-bottom: 2px solid var(--maincolor);
 }
 
 .maincol ul {
