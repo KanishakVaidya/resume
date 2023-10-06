@@ -1,5 +1,5 @@
 #+title: Resume
-#+options: title:nil toc:nil num:nil author:nil creator:nil timestamp:nil html-style:nil html-postamble:nil
+#+options: title:nil toc:nil num:nil author:nil creator:nil timestamp:nil html-style:nil html-postamble:nil \n:t
 #+HTML_HEAD: <link rel="stylesheet" href="./style.css">
 
 * Kanishak Vaidya
@@ -39,10 +39,11 @@
 :END:
 As a Ph.D. fellow in the Electrical Communication Engineering department at IISc Bangalore, I specialize in private information retrieval, cache-aided networks, and distributed systems. My research is focused on addressing privacy concerns in distributed systems and developing new techniques for straggler mitigation. I have a strong background in coding, signal processing, and information theory and I have also worked on image processing and computer vision projects.
 ** Recent Publications
+ - Kanishak Vaidya and B. Sundar Rajan, *"Cache-Aided Multi-User Private Information Retrieval using PDAs"* accepted for publication in the IEEE Transactions on Communications as a Transactions Paper.
  - Kanishak Vaidya and B. Sundar Rajan, *"Multi-User PIR with Cyclic Wraparound Multi-Access Caches"*. Entropy 2023, 25, 1228. https://doi.org/10.3390/e25081228
  - Kanishak Vaidya and B. Sundar Rajan, *"Cache-Aided Multi-User Private Information Retrieval Using PDAs,"* 2023 IEEE Information Theory Workshop (ITW), Saint-Malo, France, 23-28 April 2023.
- - Kanishak Vaidya and B. Sundar Rajan, *"Private Information Delivery with Coded Storage,"* 2022 - 2022 IEEE International Symposium on Information Theory (ISIT 2022), Espoo, Finland, 24 June – 2 July 2022.
  - *Other publications*: [[https://kanishakvaidya.github.io/phd-progress/publications][kanishakvaidya.github.io/phd-progress/publications]]
+   + Kanishak Vaidya and B. Sundar Rajan, *"Private Information Delivery with Coded Storage,"* 2022 - 2022 IEEE International Symposium on Information Theory (ISIT 2022), Espoo, Finland, 24 June – 2 July 2022.
    + Kanishak Vaidya and B. Sundar Rajan, *"Cache-Aided Multi-Access Multi-User Private Information Retrieval,"* 2022 20th International Symposium on Modeling and Optimization in Mobile, Ad hoc, and Wireless Networks (WiOpt), Torino, Italy, 2022, pp. 246-253, doi: 10.23919/WiOpt56218.2022.9930597.
    + Kanishak Vaidya and B. Sundar Rajan, *"Distributed Computation: Privacy, Straggler Mitigation, and Security Against Colluding Workers,"* 2020 - 2020 IEEE Global Communications Conference, 2020, pp. 1-6, doi: 10.1109/GLOBECOM42002.2020.9322092.
    + Kanishak Vaidya and B. Sundar Rajan, *"Cache-Aided Multi-User Private Information Retrieval using PDAs."* arXiv:2212.12979, 26 December 2022.
@@ -60,7 +61,7 @@ As a Ph.D. fellow in the Electrical Communication Engineering department at IISc
    + Gesture controlled wheelchair
    + Home security alarm from *LDR and BJT Transistors*
 ** Education
-|  *PhD, M.Tech*  |      IISc Bangalore      | Aug 2018 - Present  | CGPA: 8.9/10 |
-|    *B.Tech*     |    JNGEC Sundernagar     | Aug 2013 - Jul 2017 |    69.4%     |
-|     *10+2*      | Kendriya Vidyalaya Mandi |       2012-13       |    85.4%     |
-| *Matriculation* | Kendriya Vidyalaya Mandi |       2010-11       | CGPA: 9.2/10 |
+| *PhD, M.Tech(SP)* | IISc Bangalore           |  Aug 2018 - Present | CGPA: 8.9/10 |
+| *B.Tech*          | JNGEC Sundernagar        | Aug 2013 - Jul 2017 |        69.4% |
+| *10+2*            | Kendriya Vidyalaya Mandi |             2012-13 |        85.4% |
+| *Matriculation*   | Kendriya Vidyalaya Mandi |             2010-11 | CGPA: 9.2/10 |
