@@ -42,8 +42,8 @@ As a Ph.D. fellow in the Electrical Communication Engineering department at IISc
  - Kanishak Vaidya and B. Sundar Rajan, *"Cache-Aided Multi-User Private Information Retrieval using PDAs"* accepted for publication in the IEEE Transactions on Communications as a Transactions Paper.
  - Kanishak Vaidya and B. Sundar Rajan, *"Multi-User PIR with Cyclic Wraparound Multi-Access Caches"*. Entropy 2023, 25, 1228. https://doi.org/10.3390/e25081228
  - Kanishak Vaidya and B. Sundar Rajan, *"Cache-Aided Multi-User Private Information Retrieval Using PDAs,"* 2023 IEEE Information Theory Workshop (ITW), Saint-Malo, France, 23-28 April 2023.
+ - Kanishak Vaidya and B. Sundar Rajan, *"Private Information Delivery with Coded Storage,"* 2022 - 2022 IEEE International Symposium on Information Theory (ISIT 2022), Espoo, Finland, 24 June – 2 July 2022.
  - *Other publications*: [[https://kanishakvaidya.github.io/phd-progress/publications][kanishakvaidya.github.io/phd-progress/publications]]
-   + Kanishak Vaidya and B. Sundar Rajan, *"Private Information Delivery with Coded Storage,"* 2022 - 2022 IEEE International Symposium on Information Theory (ISIT 2022), Espoo, Finland, 24 June – 2 July 2022.
    + Kanishak Vaidya and B. Sundar Rajan, *"Cache-Aided Multi-Access Multi-User Private Information Retrieval,"* 2022 20th International Symposium on Modeling and Optimization in Mobile, Ad hoc, and Wireless Networks (WiOpt), Torino, Italy, 2022, pp. 246-253, doi: 10.23919/WiOpt56218.2022.9930597.
    + Kanishak Vaidya and B. Sundar Rajan, *"Distributed Computation: Privacy, Straggler Mitigation, and Security Against Colluding Workers,"* 2020 - 2020 IEEE Global Communications Conference, 2020, pp. 1-6, doi: 10.1109/GLOBECOM42002.2020.9322092.
    + Kanishak Vaidya and B. Sundar Rajan, *"Cache-Aided Multi-User Private Information Retrieval using PDAs."* arXiv:2212.12979, 26 December 2022.
