@@ -15,15 +15,15 @@
  - Granted *PMRF*: January 2020
  - GATE (EC) 2018: *AIR 10. GATE Score: 1000*
  - *Junior Mathematical Olympiad:* 2011. AIR 30
+** Technical Strengths
+ - *Programming:* Python, Octave/MATLAB, C/C++, Bash scripting
+ - *Software Tools:* LTspice, LabView, Arduino IDE, SimuLink
+ - *Miscellaneous:* Linux, SSH, git, LaTeX, Markdown, HTML/CSS, vim, emacs
 ** Professional Skills
  - Research and analysis
  - Teaching and mentoring
  - Scientific writing
  - Critical thinking
-** Technical Strengths
- - *Programming:* Python, Octave/MATLAB, C/C++, Bash scripting
- - *Software Tools:* LTspice, LabView, Arduino IDE, SimuLink
- - *Miscellaneous:* Linux, SSH, git, LaTeX, Markdown, HTML/CSS, vim, emacs
 ** Industrial Experience
  - *BSNL Mandi:* 45 Day industrial training on /telephone exchange/, /main distribution frames/ and /switching/.
  - *RWIT:* Workshop on wireless technologies, IoT and 5G
@@ -62,6 +62,6 @@ As a Ph.D. fellow in the Electrical Communication Engineering department at IISc
    + Home security alarm from *LDR and BJT Transistors*
 ** Education
 | *PhD, M.Tech(SP)* | IISc Bangalore           |  Aug 2018 - Present | CGPA: 8.9/10 |
-| *B.Tech*          | JNGEC Sundernagar        | Aug 2013 - Jul 2017 |        69.4% |
-| *10+2*            | Kendriya Vidyalaya Mandi |             2012-13 |        85.4% |
+| *B.Tech (ECE)*    | JNGEC Sundernagar        | Aug 2013 - Jul 2017 |        69.4% |
+| *10+2*            | Kendriya Vidyalaya Mandi |             2012-13 |        85.8% |
 | *Matriculation*   | Kendriya Vidyalaya Mandi |             2010-11 | CGPA: 9.2/10 |
