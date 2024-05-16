@@ -1,32 +1,37 @@
 #+title: Resume
-#+options: title:nil toc:nil num:nil author:nil creator:nil timestamp:nil html-style:nil html-postamble:nil \n:t
+#+options: title:nil toc:nil num:nil author:nil creator:nil timestamp:nil html-style:nil html-preamble:nil html-postamble:nil \n:t
 #+HTML_HEAD: <link rel="stylesheet" href="./style.css">
 
 * Kanishak Vaidya
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: personal
 :END:
-*Address:* B Block, IISc Bangalore, Bengaluru, Karnataka. 560012
-| *E-mail:* [[mailto:kanishakvaidya@gmail.com][kanishakvaidya@gmail.com]]  | *Website:* [[https://kanishakvaidya.github.io/phd-progress/][kanishakvaidya.github.io/phd-progress/]] |
-* Academic Achievements and Scholarships
+*Senior Engineer* at Qualcomm, Wireless Research and Development
+| *E-mail:* [[mailto:kanishakvaidya@gmail.com][kanishakvaidya@gmail.com]]  | *Website:* [[https://kanishakvaidya.github.io/phd-progress/][kanishakvaidya.github.io/phd-progress/]] | *Location:* Bengaluru, India |
+* Education
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: sidecol
 :END:
+- *PhD* from IISc Bangalore. Nov 2023
+  *Specialization*: Electrical Communicaion. Privacy of distributed systems.
+  *CGPA:* 8.9 / 10
+- *M.Tech:* from IISc Bangalore Jul 2023
+  *Specialization*: Signal Processing.
+  *CGPA:* 8.9 / 10
+** Academics and Scholarships
  - Granted *PMRF*: January 2020
  - GATE (EC) 2018: *AIR 10. GATE Score: 1000*
  - *Junior Mathematical Olympiad:* 2011. AIR 30
 ** Technical Strengths
  - *Programming:* Python, Octave/MATLAB, C/C++, Bash scripting
- - *Software Tools:* LTspice, LabView, Arduino IDE, SimuLink
- - *Miscellaneous:* Linux, SSH, git, LaTeX, Markdown, HTML/CSS, vim, emacs
+ - *Softwares and Modules:* PyTorch, PyG, Tensorflow, OpenCV, LTspice, LabView, Arduino IDE, SimuLink
+ - *Miscellaneous:* Linux, SSH, git, LaTeX, HTML/CSS, vim, emacs
 ** Professional Skills
  - Research and analysis
- - Contextual comprehension
  - Efficient team oversight and coordination
  - Abstract and critical thinking
  - Problem solving
- - Proactive and decisive
-** Industrial Experience
+** Industrial Trainings
  - *BSNL Mandi:* 45 Day industrial training on /telephone exchange/, /main distribution frames/ and /switching/.
  - *RWIT:* Workshop on wireless technologies, IoT and 5G
  - *INMOTC:* KV Dhaula Kuan, Delhi. Focus on Complex analysis, Number theory and geometry
@@ -39,17 +44,20 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: maincol
 :END:
-As a Ph.D. fellow in ECE department at IISc Bangalore, my research expertise lies in privacy in wireless cache-aided networks, and distributed machine learning systems. I have strong background in signal processing, coding, and information theory and I've also worked on image processing and computer vision projects.
-** Recent Education
-| Qualification | Institute        | Specialization    | Graduated | CGPA   |
-|---------------+------------------+-------------------+-----------+--------|
-| *PhD*         | IISc Bangalore   | Communications    | Nov 2023  | 8.9/10 |
-| *M.Tech*      | IISc Bangalore   | Signal Processing | Jul 2023  | 8.9/10 |
+As a Senior Engineer in Wireless Research and Development team at Qualcomm, Bangalore, my work is on modern communication technologies. Being a PhD from IISc, ECE department, I have strong background in signal processing, coding, and machine learning and I've also worked on image processing and computer vision projects.
+** Experience
+*** Qualcomm, Bangalore | Feb 2024 - Present | /Senior Engineer, WRD Team/
+Focus on modern wireless technologies like 5G and digital twin. Building machine learning architecture to predict various properties of wireless networks. Using ML based predictions for better resource allocation or for network analysis.
+*** IISc, Bangalore | Jan 2020 - Jul 2023 | /Teaching as PMRF TA/
+As part of PMRF responsibilities, taught GATE EC related courses at various institutions. Taught 2nd and 3rd year students. Subjects: Networks, Signal and systems, communication systems and misc topics on electromagnetic field theory, analog and digital electronics. Focused on problem solving and previous year GATE problems.
+
 ** Recent Publications
+ - K. Vaidya and B.S. Rajan, *"Multi-Access Cache-Aided Multi-user Private Information Retrieval"* in IEEE Transactions on Communications, doi: 10.1109/TCOMM.2024.3375810.
  - K. Vaidya and B.S. Rajan, *"Cache-Aided Multi-User Private Information Retrieval using PDAs"* IEEE TComm, doi:10.1109/TCOMM.2023.3325473.
  - K. Vaidya and B.S. Rajan, *"Private Information Delivery with Coded Storage,"* IEEE ISIT 2022, Espoo, Finland, 24 June – 2 July 2022.
- - K. Vaidya and B.S. Rajan, *"Distributed Computation: Privacy, Straggler Mitigation, and Security Against Colluding Workers,"* IEEE GLOBECOM 2020 doi: 10.1109/GLOBECOM42002.2020.9322092.
  - *Other publications*: [[https://kanishakvaidya.github.io/phd-progress/publications][kanishakvaidya.github.io/phd-progress/publications]]
+   + K. Vaidya and B.S. Rajan, *"Distributed Computation: Privacy, Straggler Mitigation, and Security Against Colluding Workers,"* IEEE GLOBECOM 2020 doi: 10.1109/GLOBECOM42002.2020.9322092.
+   + K. Vaidya and B.S. Rajan, *"Distributed Computation: Privacy, Straggler Mitigation, and Security Against Colluding Workers,"* IEEE GLOBECOM 2020 doi: 10.1109/GLOBECOM42002.2020.9322092.
    + Kanishak Vaidya and B. Sundar Rajan, *"Cache-Aided Multi-User Private Information Retrieval Using PDAs,"* 2023 IEEE Information Theory Workshop (ITW), Saint-Malo, France, 23-28 April 2023.
    + Kanishak Vaidya and B. Sundar Rajan, *"Cache-Aided Multi-Access Multi-User Private Information Retrieval,"* 2022 20th International Symposium on Modeling and Optimization in Mobile, Ad hoc, and Wireless Networks (WiOpt), Torino, Italy, 2022, pp. 246-253, doi: 10.23919/WiOpt56218.2022.9930597.
    + Kanishak Vaidya and B. Sundar Rajan, *"Multi-User PIR with Cyclic Wraparound Multi-Access Caches"*. Entropy 2023, 25, 1228. https://doi.org/10.3390/e25081228
@@ -62,6 +70,7 @@ As a Ph.D. fellow in ECE department at IISc Bangalore, my research expertise lie
  - *Computer vision*: Camera rotation and translation from images on python
  - *Hobby projects:* Maintain a Linux distribution and package repository
  - *Other projects:* [[https://kanishakvaidya.github.io/phd-progress/projects/index.html][kanishakvaidya.github.io/phd-progress/projects]]
+   + *Communications:* Created python modules for finite field operations
    + *Arduino based* Two-wheel self balancing robot
    + Image segmentation using watershed transform
    + Image mosaic using homography estimation
