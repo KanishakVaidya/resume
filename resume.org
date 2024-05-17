@@ -7,7 +7,7 @@
 :HTML_CONTAINER_CLASS: personal
 :END:
 *Senior Engineer* at Qualcomm, Wireless Research and Development
-| *E-mail:* [[mailto:kanishakvaidya@gmail.com][kanishakvaidya@gmail.com]]  | *Website:* [[https://kanishakvaidya.github.io/phd-progress/][kanishakvaidya.github.io/phd-progress/]] | *Location:* Bengaluru, India |
+| *E-mail:* [[mailto:kanishakvaidya@gmail.com][kanishakvaidya@gmail.com]]  | *Website:* [[https://kanishakvaidya.github.io][kanishakvaidya.github.io]] | *Location:* Bengaluru, India |
 * Education
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: sidecol
@@ -55,7 +55,7 @@ As part of PMRF responsibilities, taught GATE EC related courses at various inst
  - K. Vaidya and B.S. Rajan, *"Multi-Access Cache-Aided Multi-user Private Information Retrieval"* in IEEE Transactions on Communications, doi: 10.1109/TCOMM.2024.3375810.
  - K. Vaidya and B.S. Rajan, *"Cache-Aided Multi-User Private Information Retrieval using PDAs"* IEEE TComm, doi:10.1109/TCOMM.2023.3325473.
  - K. Vaidya and B.S. Rajan, *"Private Information Delivery with Coded Storage,"* IEEE ISIT 2022, Espoo, Finland, 24 June – 2 July 2022.
- - *Other publications*: [[https://kanishakvaidya.github.io/phd-progress/publications][kanishakvaidya.github.io/phd-progress/publications]]
+ - *Other publications*: [[https://kanishakvaidya.github.io/publications][kanishakvaidya.github.io/publications]]
    + K. Vaidya and B.S. Rajan, *"Distributed Computation: Privacy, Straggler Mitigation, and Security Against Colluding Workers,"* IEEE GLOBECOM 2020 doi: 10.1109/GLOBECOM42002.2020.9322092.
    + K. Vaidya and B.S. Rajan, *"Distributed Computation: Privacy, Straggler Mitigation, and Security Against Colluding Workers,"* IEEE GLOBECOM 2020 doi: 10.1109/GLOBECOM42002.2020.9322092.
    + Kanishak Vaidya and B. Sundar Rajan, *"Cache-Aided Multi-User Private Information Retrieval Using PDAs,"* 2023 IEEE Information Theory Workshop (ITW), Saint-Malo, France, 23-28 April 2023.
@@ -69,7 +69,7 @@ As part of PMRF responsibilities, taught GATE EC related courses at various inst
  - *Communications:* Created python modules for finite field operations
  - *Computer vision*: Camera rotation and translation from images on python
  - *Hobby projects:* Maintain a Linux distribution and package repository
- - *Other projects:* [[https://kanishakvaidya.github.io/phd-progress/projects/index.html][kanishakvaidya.github.io/phd-progress/projects]]
+ - *Other projects:* [[https://kanishakvaidya.github.io/projects/index.html][kanishakvaidya.github.io/projects]]
    + *Communications:* Created python modules for finite field operations
    + *Arduino based* Two-wheel self balancing robot
    + Image segmentation using watershed transform
